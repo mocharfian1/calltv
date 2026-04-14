@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+build/
+app/build/
+local.properties
+*.iml
+signaling-server/node_modules/
+signaling-server/github_*
